@@ -1,4 +1,4 @@
-# ADHI-OFC-WA-BAND-TOOL
+# AGENT-PANDA-WA-BAND-TOOL
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/1d341043-e27b-4eb5-9958-07bbbce029fd" />
 It is a group of robots that send reporting requests from different devices to the number 
 
@@ -16,7 +16,7 @@ pip install requests
 *************************************************************
 pip install colorama
 *************************************************************
-git clone https://github.com/adhi-ofc-web-arch/ADHI-OFC-WA-BAND.git && cd ADHI-OFC-WA-BAND
+git clone https://github.com/RANJITHLASANTHA/AGENTPANDA-WA-Number-Ban-Tool
 *************************************************************
 python main.py if you cant start script
 *************************************************************
