@@ -22,5 +22,5 @@ python main.py if you cant start script
 *************************************************************
 *** +94##### --> test number
 *************************************************************
-open new > cd ADHI-OFC-WA-BAND && python main.py
+open new > cd AGENT-PANDA-WA-BAND && python main.py
 *************************************************************
